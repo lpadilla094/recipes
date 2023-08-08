@@ -3,5 +3,15 @@ Ingredients:
  - onions
  - cilantro
  - jalapeno
+ - tomatoes
  - salt
  - lime
+
+Instructions:
+1. Cut avocadoes into cubes
+2. Chop onions
+3. Chop cilantro
+4. Chop jalapeno
+5. Chop tomatoes
+6. Squeeze limes
+7. Mix everything with salt to taste
