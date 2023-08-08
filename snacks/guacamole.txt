@@ -3,6 +3,7 @@ Ingredients:
  - onions
  - cilantro
  - canned pickled jalapenos
+ - garlic
  - tomatoes
  - salt
  - lime
@@ -15,4 +16,5 @@ Instructions:
 5. Chop tomatoes
 6. Squeeze limes
 7. Add 2 tbsp of the jalapeno pickling juice
-8. Mix everything with salt to taste
+8. Add garlic
+9. Mix everything with salt to taste
